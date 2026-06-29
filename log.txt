@@ -1,0 +1,864 @@
+====================================
+TESTE: gbn | W=4 | L0
+====================================
+Window size = 4
+Modo = gbn
+Usando arquivo "src/files/50.255+0.txt"
+<Sender> Iniciando etapa de HANDSHAKE
+<Sender> Lendo arquivo e enviando
+<Sender> Iniciando etapa de DISCONNECT
+TOTAL RETRANSMISSIONS=0
+ARQUIVO=12750
+TEMPO=0.011 s
+THROUGHPUT=1159090.9090909092
+[OK] Arquivo íntegro
+Successfully copied 21.5kB to C:\Users\Admin\Desktop\TF-LabRedes-turma30\TF-LabRedes\captures\gbn_w4_L0.pcap
+Captura salva: captures/gbn_w4_L0.pcap
+
+====================================
+TESTE: gbn | W=4 | L1
+====================================
+Window size = 4
+Modo = gbn
+Usando arquivo "src/files/50.255+0.txt"
+<Sender> Iniciando etapa de HANDSHAKE
+<Sender> Lendo arquivo e enviando
+<Sender> Iniciando etapa de DISCONNECT
+TOTAL RETRANSMISSIONS=0
+ARQUIVO=12750
+TEMPO=0.659 s
+THROUGHPUT=19347.496206373293
+[OK] Arquivo íntegro
+Successfully copied 21.5kB to C:\Users\Admin\Desktop\TF-LabRedes-turma30\TF-LabRedes\captures\gbn_w4_L1.pcap
+Captura salva: captures/gbn_w4_L1.pcap
+
+====================================
+TESTE: gbn | W=4 | L2
+====================================
+Window size = 4
+Modo = gbn
+Usando arquivo "src/files/50.255+0.txt"
+<Sender> Iniciando etapa de HANDSHAKE
+<Sender> Lendo arquivo e enviando
+<Sender> Iniciando etapa de DISCONNECT
+TOTAL RETRANSMISSIONS=5
+ARQUIVO=12750
+TEMPO=1.312 s
+THROUGHPUT=9717.987804878048
+[OK] Arquivo íntegro
+Successfully copied 23.6kB to C:\Users\Admin\Desktop\TF-LabRedes-turma30\TF-LabRedes\captures\gbn_w4_L2.pcap
+Captura salva: captures/gbn_w4_L2.pcap
+
+====================================
+TESTE: gbn | W=4 | L3
+====================================
+Window size = 4
+Modo = gbn
+Usando arquivo "src/files/50.255+0.txt"
+<Sender> Iniciando etapa de HANDSHAKE
+<Sender> Lendo arquivo e enviando
+<Sender> Iniciando etapa de DISCONNECT
+TOTAL RETRANSMISSIONS=35
+ARQUIVO=12750
+TEMPO=1.961 s
+THROUGHPUT=6501.784803671596
+[OK] Arquivo íntegro
+Successfully copied 35.3kB to C:\Users\Admin\Desktop\TF-LabRedes-turma30\TF-LabRedes\captures\gbn_w4_L3.pcap
+Captura salva: captures/gbn_w4_L3.pcap
+
+====================================
+TESTE: gbn | W=4 | P0
+====================================
+Window size = 4
+Modo = gbn
+Usando arquivo "src/files/50.255+0.txt"
+<Sender> Iniciando etapa de HANDSHAKE
+<Sender> Lendo arquivo e enviando
+<Sender> Iniciando etapa de DISCONNECT
+TOTAL RETRANSMISSIONS=0
+ARQUIVO=12750
+TEMPO=0.012 s
+THROUGHPUT=1062500.0
+[OK] Arquivo íntegro
+Successfully copied 21.5kB to C:\Users\Admin\Desktop\TF-LabRedes-turma30\TF-LabRedes\captures\gbn_w4_P0.pcap
+Captura salva: captures/gbn_w4_P0.pcap
+
+====================================
+TESTE: gbn | W=4 | P1
+====================================
+Window size = 4
+Modo = gbn
+Usando arquivo "src/files/50.255+0.txt"
+<Sender> Iniciando etapa de HANDSHAKE
+<Sender> Lendo arquivo e enviando
+<Sender> Iniciando etapa de DISCONNECT
+TOTAL RETRANSMISSIONS=12
+ARQUIVO=12750
+TEMPO=0.02 s
+THROUGHPUT=637500.0
+[OK] Arquivo íntegro
+Successfully copied 26.1kB to C:\Users\Admin\Desktop\TF-LabRedes-turma30\TF-LabRedes\captures\gbn_w4_P1.pcap
+Captura salva: captures/gbn_w4_P1.pcap
+
+====================================
+TESTE: gbn | W=4 | P2
+====================================
+Window size = 4
+Modo = gbn
+Usando arquivo "src/files/50.255+0.txt"
+<Sender> Iniciando etapa de HANDSHAKE
+<Sender> Lendo arquivo e enviando
+<Sender> Iniciando etapa de DISCONNECT
+TOTAL RETRANSMISSIONS=20
+ARQUIVO=12750
+TEMPO=0.019 s
+THROUGHPUT=671052.6315789474
+[OK] Arquivo íntegro
+Successfully copied 28.2kB to C:\Users\Admin\Desktop\TF-LabRedes-turma30\TF-LabRedes\captures\gbn_w4_P2.pcap
+Captura salva: captures/gbn_w4_P2.pcap
+
+====================================
+TESTE: gbn | W=4 | P3
+====================================
+Window size = 4
+Modo = gbn
+Usando arquivo "src/files/50.255+0.txt"
+<Sender> Iniciando etapa de HANDSHAKE
+<Sender> Lendo arquivo e enviando
+<Sender> Iniciando etapa de DISCONNECT
+TOTAL RETRANSMISSIONS=13
+ARQUIVO=12750
+TEMPO=0.12 s
+THROUGHPUT=106250.0
+[OK] Arquivo íntegro
+Successfully copied 25.6kB to C:\Users\Admin\Desktop\TF-LabRedes-turma30\TF-LabRedes\captures\gbn_w4_P3.pcap
+Captura salva: captures/gbn_w4_P3.pcap
+
+====================================
+TESTE: gbn | W=4 | P4
+====================================
+Window size = 4
+Modo = gbn
+Usando arquivo "src/files/50.255+0.txt"
+<Sender> Iniciando etapa de HANDSHAKE
+<Sender> Lendo arquivo e enviando
+<Sender> Iniciando etapa de DISCONNECT
+TOTAL RETRANSMISSIONS=114
+ARQUIVO=12750
+TEMPO=0.029 s
+THROUGHPUT=439655.1724137931
+[OK] Arquivo íntegro
+Successfully copied 48.6kB to C:\Users\Admin\Desktop\TF-LabRedes-turma30\TF-LabRedes\captures\gbn_w4_P4.pcap
+Captura salva: captures/gbn_w4_P4.pcap
+
+====================================
+TESTE: gbn | W=16 | L0
+====================================
+Window size = 16
+Modo = gbn
+Usando arquivo "src/files/50.255+0.txt"
+<Sender> Iniciando etapa de HANDSHAKE
+<Sender> Lendo arquivo e enviando
+<Sender> Iniciando etapa de DISCONNECT
+TOTAL RETRANSMISSIONS=0
+ARQUIVO=12750
+TEMPO=0.016 s
+THROUGHPUT=796875.0
+[OK] Arquivo íntegro
+Successfully copied 21.5kB to C:\Users\Admin\Desktop\TF-LabRedes-turma30\TF-LabRedes\captures\gbn_w16_L0.pcap
+Captura salva: captures/gbn_w16_L0.pcap
+
+====================================
+TESTE: gbn | W=16 | L1
+====================================
+Window size = 16
+Modo = gbn
+Usando arquivo "src/files/50.255+0.txt"
+<Sender> Iniciando etapa de HANDSHAKE
+<Sender> Lendo arquivo e enviando
+<Sender> Iniciando etapa de DISCONNECT
+TOTAL RETRANSMISSIONS=0
+ARQUIVO=12750
+TEMPO=0.204 s
+THROUGHPUT=62500.00000000001
+[OK] Arquivo íntegro
+Successfully copied 21.5kB to C:\Users\Admin\Desktop\TF-LabRedes-turma30\TF-LabRedes\captures\gbn_w16_L1.pcap
+Captura salva: captures/gbn_w16_L1.pcap
+
+====================================
+TESTE: gbn | W=16 | L2
+====================================
+Window size = 16
+Modo = gbn
+Usando arquivo "src/files/50.255+0.txt"
+<Sender> Iniciando etapa de HANDSHAKE
+<Sender> Lendo arquivo e enviando
+<Sender> Iniciando etapa de DISCONNECT
+TOTAL RETRANSMISSIONS=1
+ARQUIVO=12750
+TEMPO=0.404 s
+THROUGHPUT=31559.405940594057
+[OK] Arquivo íntegro
+Successfully copied 22kB to C:\Users\Admin\Desktop\TF-LabRedes-turma30\TF-LabRedes\captures\gbn_w16_L2.pcap
+Captura salva: captures/gbn_w16_L2.pcap
+
+====================================
+TESTE: gbn | W=16 | L3
+====================================
+Window size = 16
+Modo = gbn
+Usando arquivo "src/files/50.255+0.txt"
+<Sender> Iniciando etapa de HANDSHAKE
+<Sender> Lendo arquivo e enviando
+<Sender> Iniciando etapa de DISCONNECT
+TOTAL RETRANSMISSIONS=33
+ARQUIVO=12750
+TEMPO=0.604 s
+THROUGHPUT=21109.27152317881
+[OK] Arquivo íntegro
+Successfully copied 34.3kB to C:\Users\Admin\Desktop\TF-LabRedes-turma30\TF-LabRedes\captures\gbn_w16_L3.pcap
+Captura salva: captures/gbn_w16_L3.pcap
+
+====================================
+TESTE: gbn | W=16 | P0
+====================================
+Window size = 16
+Modo = gbn
+Usando arquivo "src/files/50.255+0.txt"
+<Sender> Iniciando etapa de HANDSHAKE
+<Sender> Lendo arquivo e enviando
+<Sender> Iniciando etapa de DISCONNECT
+TOTAL RETRANSMISSIONS=0
+ARQUIVO=12750
+TEMPO=0.01 s
+THROUGHPUT=1275000.0
+[OK] Arquivo íntegro
+Successfully copied 21.5kB to C:\Users\Admin\Desktop\TF-LabRedes-turma30\TF-LabRedes\captures\gbn_w16_P0.pcap
+Captura salva: captures/gbn_w16_P0.pcap
+
+====================================
+TESTE: gbn | W=16 | P1
+====================================
+Window size = 16
+Modo = gbn
+Usando arquivo "src/files/50.255+0.txt"
+<Sender> Iniciando etapa de HANDSHAKE
+<Sender> Lendo arquivo e enviando
+<Sender> Iniciando etapa de DISCONNECT
+TOTAL RETRANSMISSIONS=0
+ARQUIVO=12750
+TEMPO=0.011 s
+THROUGHPUT=1159090.9090909092
+[OK] Arquivo íntegro
+Successfully copied 21.5kB to C:\Users\Admin\Desktop\TF-LabRedes-turma30\TF-LabRedes\captures\gbn_w16_P1.pcap
+Captura salva: captures/gbn_w16_P1.pcap
+
+====================================
+TESTE: gbn | W=16 | P2
+====================================
+Window size = 16
+Modo = gbn
+Usando arquivo "src/files/50.255+0.txt"
+<Sender> Iniciando etapa de HANDSHAKE
+<Sender> Lendo arquivo e enviando
+<Sender> Iniciando etapa de DISCONNECT
+TOTAL RETRANSMISSIONS=224
+ARQUIVO=12750
+TEMPO=0.044 s
+THROUGHPUT=289772.7272727273
+[OK] Arquivo íntegro
+Successfully copied 104kB to C:\Users\Admin\Desktop\TF-LabRedes-turma30\TF-LabRedes\captures\gbn_w16_P2.pcap
+Captura salva: captures/gbn_w16_P2.pcap
+
+====================================
+TESTE: gbn | W=16 | P3
+====================================
+Window size = 16
+Modo = gbn
+Usando arquivo "src/files/50.255+0.txt"
+<Sender> Iniciando etapa de HANDSHAKE
+<Sender> Lendo arquivo e enviando
+<Sender> Iniciando etapa de DISCONNECT
+TOTAL RETRANSMISSIONS=716
+ARQUIVO=12750
+TEMPO=0.064 s
+THROUGHPUT=199218.75
+[OK] Arquivo íntegro
+Successfully copied 260kB to C:\Users\Admin\Desktop\TF-LabRedes-turma30\TF-LabRedes\captures\gbn_w16_P3.pcap
+Captura salva: captures/gbn_w16_P3.pcap
+
+====================================
+TESTE: gbn | W=16 | P4
+====================================
+Window size = 16
+Modo = gbn
+Usando arquivo "src/files/50.255+0.txt"
+<Sender> Iniciando etapa de HANDSHAKE
+<Sender> Lendo arquivo e enviando
+<Sender> Iniciando etapa de DISCONNECT
+TOTAL RETRANSMISSIONS=1381
+ARQUIVO=12750
+TEMPO=0.083 s
+THROUGHPUT=153614.4578313253
+[OK] Arquivo íntegro
+Successfully copied 391kB to C:\Users\Admin\Desktop\TF-LabRedes-turma30\TF-LabRedes\captures\gbn_w16_P4.pcap
+Captura salva: captures/gbn_w16_P4.pcap
+
+====================================
+TESTE: sr | W=4 | L0
+====================================
+Window size = 4
+Modo = sr
+Usando arquivo "src/files/50.255+0.txt"
+<Sender> Iniciando etapa de HANDSHAKE
+<Sender> Lendo arquivo e enviando
+<Sender> Iniciando etapa de DISCONNECT
+TOTAL RETRANSMISSIONS=0
+ARQUIVO=12750
+TEMPO=0.012 s
+THROUGHPUT=1062500.0
+[OK] Arquivo íntegro
+Successfully copied 21.5kB to C:\Users\Admin\Desktop\TF-LabRedes-turma30\TF-LabRedes\captures\sr_w4_L0.pcap
+Captura salva: captures/sr_w4_L0.pcap
+
+====================================
+TESTE: sr | W=4 | L1
+====================================
+Window size = 4
+Modo = sr
+Usando arquivo "src/files/50.255+0.txt"
+<Sender> Iniciando etapa de HANDSHAKE
+<Sender> Lendo arquivo e enviando
+<Sender> Iniciando etapa de DISCONNECT
+TOTAL RETRANSMISSIONS=0
+ARQUIVO=12750
+TEMPO=0.661 s
+THROUGHPUT=19288.956127080182
+[OK] Arquivo íntegro
+Successfully copied 21.5kB to C:\Users\Admin\Desktop\TF-LabRedes-turma30\TF-LabRedes\captures\sr_w4_L1.pcap
+Captura salva: captures/sr_w4_L1.pcap
+
+====================================
+TESTE: sr | W=4 | L2
+====================================
+Window size = 4
+Modo = sr
+Usando arquivo "src/files/50.255+0.txt"
+<Sender> Iniciando etapa de HANDSHAKE
+<Sender> Lendo arquivo e enviando
+<Sender> Iniciando etapa de DISCONNECT
+TOTAL RETRANSMISSIONS=0
+ARQUIVO=12750
+TEMPO=1.312 s
+THROUGHPUT=9717.987804878048
+[OK] Arquivo íntegro
+Successfully copied 42kB to C:\Users\Admin\Desktop\TF-LabRedes-turma30\TF-LabRedes\captures\sr_w4_L2.pcap
+Captura salva: captures/sr_w4_L2.pcap
+
+====================================
+TESTE: sr | W=4 | L3
+====================================
+Window size = 4
+Modo = sr
+Usando arquivo "src/files/50.255+0.txt"
+<Sender> Iniciando etapa de HANDSHAKE
+<Sender> Lendo arquivo e enviando
+<Sender> Iniciando etapa de DISCONNECT
+TOTAL RETRANSMISSIONS=1
+ARQUIVO=12750
+TEMPO=1.963 s
+THROUGHPUT=6495.160468670402
+[OK] Arquivo íntegro
+Successfully copied 42kB to C:\Users\Admin\Desktop\TF-LabRedes-turma30\TF-LabRedes\captures\sr_w4_L3.pcap
+Captura salva: captures/sr_w4_L3.pcap
+
+====================================
+TESTE: sr | W=4 | P0
+====================================
+Window size = 4
+Modo = sr
+Usando arquivo "src/files/50.255+0.txt"
+<Sender> Iniciando etapa de HANDSHAKE
+<Sender> Lendo arquivo e enviando
+<Sender> Iniciando etapa de DISCONNECT
+TOTAL RETRANSMISSIONS=0
+ARQUIVO=12750
+TEMPO=0.014 s
+THROUGHPUT=910714.2857142857
+[OK] Arquivo íntegro
+Successfully copied 21.5kB to C:\Users\Admin\Desktop\TF-LabRedes-turma30\TF-LabRedes\captures\sr_w4_P0.pcap
+Captura salva: captures/sr_w4_P0.pcap
+
+====================================
+TESTE: sr | W=4 | P1
+====================================
+Window size = 4
+Modo = sr
+Usando arquivo "src/files/50.255+0.txt"
+<Sender> Iniciando etapa de HANDSHAKE
+<Sender> Lendo arquivo e enviando
+<Sender> Iniciando etapa de DISCONNECT
+TOTAL RETRANSMISSIONS=0
+ARQUIVO=12750
+TEMPO=0.012 s
+THROUGHPUT=1062500.0
+[OK] Arquivo íntegro
+Successfully copied 21.5kB to C:\Users\Admin\Desktop\TF-LabRedes-turma30\TF-LabRedes\captures\sr_w4_P1.pcap
+Captura salva: captures/sr_w4_P1.pcap
+
+====================================
+TESTE: sr | W=4 | P2
+====================================
+Window size = 4
+Modo = sr
+Usando arquivo "src/files/50.255+0.txt"
+<Sender> Iniciando etapa de HANDSHAKE
+<Sender> Lendo arquivo e enviando
+<Sender> Iniciando etapa de DISCONNECT
+TOTAL RETRANSMISSIONS=12
+ARQUIVO=12750
+TEMPO=0.015 s
+THROUGHPUT=850000.0
+[OK] Arquivo íntegro
+Successfully copied 25.1kB to C:\Users\Admin\Desktop\TF-LabRedes-turma30\TF-LabRedes\captures\sr_w4_P2.pcap
+Captura salva: captures/sr_w4_P2.pcap
+
+====================================
+TESTE: sr | W=4 | P3
+====================================
+Window size = 4
+Modo = sr
+Usando arquivo "src/files/50.255+0.txt"
+<Sender> Iniciando etapa de HANDSHAKE
+<Sender> Lendo arquivo e enviando
+<Sender> Iniciando etapa de DISCONNECT
+TOTAL RETRANSMISSIONS=21
+ARQUIVO=12750
+TEMPO=0.128 s
+THROUGHPUT=99609.375
+[OK] Arquivo íntegro
+Successfully copied 27.1kB to C:\Users\Admin\Desktop\TF-LabRedes-turma30\TF-LabRedes\captures\sr_w4_P3.pcap
+Captura salva: captures/sr_w4_P3.pcap
+
+====================================
+TESTE: sr | W=4 | P4
+====================================
+Window size = 4
+Modo = sr
+Usando arquivo "src/files/50.255+0.txt"
+<Sender> Iniciando etapa de HANDSHAKE
+<Sender> Lendo arquivo e enviando
+<Sender> Iniciando etapa de DISCONNECT
+TOTAL RETRANSMISSIONS=26
+ARQUIVO=12750
+TEMPO=0.321 s
+THROUGHPUT=39719.6261682243
+[OK] Arquivo íntegro
+Successfully copied 25.6kB to C:\Users\Admin\Desktop\TF-LabRedes-turma30\TF-LabRedes\captures\sr_w4_P4.pcap
+Captura salva: captures/sr_w4_P4.pcap
+
+====================================
+TESTE: sr | W=16 | L0
+====================================
+Window size = 16
+Modo = sr
+Usando arquivo "src/files/50.255+0.txt"
+<Sender> Iniciando etapa de HANDSHAKE
+<Sender> Lendo arquivo e enviando
+<Sender> Iniciando etapa de DISCONNECT
+TOTAL RETRANSMISSIONS=0
+ARQUIVO=12750
+TEMPO=0.011 s
+THROUGHPUT=1159090.9090909092
+[OK] Arquivo íntegro
+Successfully copied 21.5kB to C:\Users\Admin\Desktop\TF-LabRedes-turma30\TF-LabRedes\captures\sr_w16_L0.pcap
+Captura salva: captures/sr_w16_L0.pcap
+
+====================================
+TESTE: sr | W=16 | L1
+====================================
+Window size = 16
+Modo = sr
+Usando arquivo "src/files/50.255+0.txt"
+<Sender> Iniciando etapa de HANDSHAKE
+<Sender> Lendo arquivo e enviando
+<Sender> Iniciando etapa de DISCONNECT
+TOTAL RETRANSMISSIONS=0
+ARQUIVO=12750
+TEMPO=0.206 s
+THROUGHPUT=61893.203883495145
+[OK] Arquivo íntegro
+Successfully copied 21.5kB to C:\Users\Admin\Desktop\TF-LabRedes-turma30\TF-LabRedes\captures\sr_w16_L1.pcap
+Captura salva: captures/sr_w16_L1.pcap
+
+====================================
+TESTE: sr | W=16 | L2
+====================================
+Window size = 16
+Modo = sr
+Usando arquivo "src/files/50.255+0.txt"
+<Sender> Iniciando etapa de HANDSHAKE
+<Sender> Lendo arquivo e enviando
+<Sender> Iniciando etapa de DISCONNECT
+TOTAL RETRANSMISSIONS=0
+ARQUIVO=12750
+TEMPO=0.409 s
+THROUGHPUT=31173.594132029342
+[OK] Arquivo íntegro
+Successfully copied 42kB to C:\Users\Admin\Desktop\TF-LabRedes-turma30\TF-LabRedes\captures\sr_w16_L2.pcap
+Captura salva: captures/sr_w16_L2.pcap
+
+====================================
+TESTE: sr | W=16 | L3
+====================================
+Window size = 16
+Modo = sr
+Usando arquivo "src/files/50.255+0.txt"
+<Sender> Iniciando etapa de HANDSHAKE
+<Sender> Lendo arquivo e enviando
+<Sender> Iniciando etapa de DISCONNECT
+TOTAL RETRANSMISSIONS=1
+ARQUIVO=12750
+TEMPO=0.603 s
+THROUGHPUT=21144.278606965174
+[OK] Arquivo íntegro
+Successfully copied 42kB to C:\Users\Admin\Desktop\TF-LabRedes-turma30\TF-LabRedes\captures\sr_w16_L3.pcap
+Captura salva: captures/sr_w16_L3.pcap
+
+====================================
+TESTE: sr | W=16 | P0
+====================================
+Window size = 16
+Modo = sr
+Usando arquivo "src/files/50.255+0.txt"
+<Sender> Iniciando etapa de HANDSHAKE
+<Sender> Lendo arquivo e enviando
+<Sender> Iniciando etapa de DISCONNECT
+TOTAL RETRANSMISSIONS=0
+ARQUIVO=12750
+TEMPO=0.011 s
+THROUGHPUT=1159090.9090909092
+[OK] Arquivo íntegro
+Successfully copied 21.5kB to C:\Users\Admin\Desktop\TF-LabRedes-turma30\TF-LabRedes\captures\sr_w16_P0.pcap
+Captura salva: captures/sr_w16_P0.pcap
+
+====================================
+TESTE: sr | W=16 | P1
+====================================
+Window size = 16
+Modo = sr
+Usando arquivo "src/files/50.255+0.txt"
+<Sender> Iniciando etapa de HANDSHAKE
+<Sender> Lendo arquivo e enviando
+<Sender> Iniciando etapa de DISCONNECT
+TOTAL RETRANSMISSIONS=15
+ARQUIVO=12750
+TEMPO=0.023 s
+THROUGHPUT=554347.8260869565
+[OK] Arquivo íntegro
+Successfully copied 27.6kB to C:\Users\Admin\Desktop\TF-LabRedes-turma30\TF-LabRedes\captures\sr_w16_P1.pcap
+Captura salva: captures/sr_w16_P1.pcap
+
+====================================
+TESTE: sr | W=16 | P2
+====================================
+Window size = 16
+Modo = sr
+Usando arquivo "src/files/50.255+0.txt"
+<Sender> Iniciando etapa de HANDSHAKE
+<Sender> Lendo arquivo e enviando
+<Sender> Iniciando etapa de DISCONNECT
+TOTAL RETRANSMISSIONS=30
+ARQUIVO=12750
+TEMPO=0.022 s
+THROUGHPUT=579545.4545454546
+[OK] Arquivo íntegro
+Successfully copied 34.3kB to C:\Users\Admin\Desktop\TF-LabRedes-turma30\TF-LabRedes\captures\sr_w16_P2.pcap
+Captura salva: captures/sr_w16_P2.pcap
+
+====================================
+TESTE: sr | W=16 | P3
+====================================
+Window size = 16
+Modo = sr
+Usando arquivo "src/files/50.255+0.txt"
+<Sender> Iniciando etapa de HANDSHAKE
+<Sender> Lendo arquivo e enviando
+<Sender> Iniciando etapa de DISCONNECT
+TOTAL RETRANSMISSIONS=19
+ARQUIVO=12750
+TEMPO=0.124 s
+THROUGHPUT=102822.58064516129
+[OK] Arquivo íntegro
+Successfully copied 28.2kB to C:\Users\Admin\Desktop\TF-LabRedes-turma30\TF-LabRedes\captures\sr_w16_P3.pcap
+Captura salva: captures/sr_w16_P3.pcap
+
+====================================
+TESTE: sr | W=16 | P4
+====================================
+Window size = 16
+Modo = sr
+Usando arquivo "src/files/50.255+0.txt"
+<Sender> Iniciando etapa de HANDSHAKE
+<Sender> Lendo arquivo e enviando
+<Sender> Iniciando etapa de DISCONNECT
+TOTAL RETRANSMISSIONS=34
+ARQUIVO=12750
+TEMPO=0.219 s
+THROUGHPUT=58219.17808219178
+[OK] Arquivo íntegro
+Successfully copied 30.2kB to C:\Users\Admin\Desktop\TF-LabRedes-turma30\TF-LabRedes\captures\sr_w16_P4.pcap
+Captura salva: captures/sr_w16_P4.pcap
+
+====================================
+TODOS OS TESTES FINALIZADOS
+====================================
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+====================================
+gbn | WINDOW=4 | R0
+NETEM: 
+====================================
+QDISC:
+qdisc noqueue 0: root refcnt 2 
+Window size = 4
+Modo = gbn
+Usando arquivo "src/files/50.255+0.txt"
+<Sender> Iniciando etapa de HANDSHAKE
+<Sender> Lendo arquivo e enviando
+<Sender> Iniciando etapa de DISCONNECT
+TOTAL RETRANSMISSIONS=0
+ARQUIVO=12750
+TEMPO=0.011 s
+THROUGHPUT=1159090.9090909092
+[OK] Arquivo íntegro
+Successfully copied 22kB to C:\Users\Admin\Desktop\TF-LabRedes-turma30\TF-LabRedes\captures\gbn_w4_R0.pcap
+Captura salva em captures/gbn_w4_R0.pcap
+
+====================================
+gbn | WINDOW=4 | R2
+NETEM: delay 1ms reorder 25% 50%
+====================================
+QDISC:
+qdisc netem 803d: root refcnt 9 limit 1000 delay 1ms reorder 25% 50% seed 2469452771500782851 gap 1
+Window size = 4
+Modo = gbn
+Usando arquivo "src/files/50.255+0.txt"
+<Sender> Iniciando etapa de HANDSHAKE
+<Sender> Lendo arquivo e enviando
+<Sender> Iniciando etapa de DISCONNECT
+TOTAL RETRANSMISSIONS=51
+ARQUIVO=12750
+TEMPO=0.032 s
+THROUGHPUT=398437.5
+[OK] Arquivo íntegro
+Successfully copied 41.5kB to C:\Users\Admin\Desktop\TF-LabRedes-turma30\TF-LabRedes\captures\gbn_w4_R2.pcap
+Captura salva em captures/gbn_w4_R2.pcap
+
+====================================
+gbn | WINDOW=4 | R1
+NETEM: delay 1ms reorder 10% 50%
+====================================
+QDISC:
+qdisc netem 803e: root refcnt 9 limit 1000 delay 1ms reorder 10% 50% seed 7422372801712003762 gap 1
+Window size = 4
+Modo = gbn
+Usando arquivo "src/files/50.255+0.txt"
+<Sender> Iniciando etapa de HANDSHAKE
+<Sender> Lendo arquivo e enviando
+<Sender> Iniciando etapa de DISCONNECT
+TOTAL RETRANSMISSIONS=0
+ARQUIVO=12750
+TEMPO=0.022 s
+THROUGHPUT=579545.4545454546
+[OK] Arquivo íntegro
+Successfully copied 21.5kB to C:\Users\Admin\Desktop\TF-LabRedes-turma30\TF-LabRedes\captures\gbn_w4_R1.pcap
+Captura salva em captures/gbn_w4_R1.pcap
+
+====================================
+gbn | WINDOW=16 | R0
+NETEM: 
+====================================
+QDISC:
+qdisc noqueue 0: root refcnt 2 
+Window size = 16
+Modo = gbn
+Usando arquivo "src/files/50.255+0.txt"
+<Sender> Iniciando etapa de HANDSHAKE
+<Sender> Lendo arquivo e enviando
+<Sender> Iniciando etapa de DISCONNECT
+TOTAL RETRANSMISSIONS=0
+ARQUIVO=12750
+TEMPO=0.012 s
+THROUGHPUT=1062500.0
+[OK] Arquivo íntegro
+Successfully copied 21.5kB to C:\Users\Admin\Desktop\TF-LabRedes-turma30\TF-LabRedes\captures\gbn_w16_R0.pcap
+Captura salva em captures/gbn_w16_R0.pcap
+
+====================================
+gbn | WINDOW=16 | R2
+NETEM: delay 1ms reorder 25% 50%
+====================================
+QDISC:
+qdisc netem 803f: root refcnt 9 limit 1000 delay 1ms reorder 25% 50% seed 1431735573548312054 gap 1
+Window size = 16
+Modo = gbn
+Usando arquivo "src/files/50.255+0.txt"
+<Sender> Iniciando etapa de HANDSHAKE
+<Sender> Lendo arquivo e enviando
+<Sender> Iniciando etapa de DISCONNECT
+TOTAL RETRANSMISSIONS=181
+ARQUIVO=12750
+TEMPO=0.04 s
+THROUGHPUT=318750.0
+[OK] Arquivo íntegro
+Successfully copied 92.7kB to C:\Users\Admin\Desktop\TF-LabRedes-turma30\TF-LabRedes\captures\gbn_w16_R2.pcap
+Captura salva em captures/gbn_w16_R2.pcap
+
+====================================
+gbn | WINDOW=16 | R1
+NETEM: delay 1ms reorder 10% 50%
+====================================
+QDISC:
+qdisc netem 8040: root refcnt 9 limit 1000 delay 1ms reorder 10% 50% seed 16961674867857542524 gap 1
+Window size = 16
+Modo = gbn
+Usando arquivo "src/files/50.255+0.txt"
+<Sender> Iniciando etapa de HANDSHAKE
+<Sender> Lendo arquivo e enviando
+<Sender> Iniciando etapa de DISCONNECT
+TOTAL RETRANSMISSIONS=0
+ARQUIVO=12750
+TEMPO=0.012 s
+THROUGHPUT=1062500.0
+[OK] Arquivo íntegro
+Successfully copied 21.5kB to C:\Users\Admin\Desktop\TF-LabRedes-turma30\TF-LabRedes\captures\gbn_w16_R1.pcap
+Captura salva em captures/gbn_w16_R1.pcap
+
+====================================
+sr | WINDOW=4 | R0
+NETEM: 
+====================================
+QDISC:
+qdisc noqueue 0: root refcnt 2 
+Window size = 4
+Modo = sr
+Usando arquivo "src/files/50.255+0.txt"
+<Sender> Iniciando etapa de HANDSHAKE
+<Sender> Lendo arquivo e enviando
+<Sender> Iniciando etapa de DISCONNECT
+TOTAL RETRANSMISSIONS=0
+ARQUIVO=12750
+TEMPO=0.011 s
+THROUGHPUT=1159090.9090909092
+[OK] Arquivo íntegro
+Successfully copied 21.5kB to C:\Users\Admin\Desktop\TF-LabRedes-turma30\TF-LabRedes\captures\sr_w4_R0.pcap
+Captura salva em captures/sr_w4_R0.pcap
+
+====================================
+sr | WINDOW=4 | R2
+NETEM: delay 1ms reorder 25% 50%
+====================================
+QDISC:
+qdisc netem 8041: root refcnt 9 limit 1000 delay 1ms reorder 25% 50% seed 7239814451835342573 gap 1
+Window size = 4
+Modo = sr
+Usando arquivo "src/files/50.255+0.txt"
+<Sender> Iniciando etapa de HANDSHAKE
+<Sender> Lendo arquivo e enviando
+<Sender> Iniciando etapa de DISCONNECT
+TOTAL RETRANSMISSIONS=3
+ARQUIVO=12750
+TEMPO=0.021 s
+THROUGHPUT=607142.8571428572
+[OK] Arquivo íntegro
+Successfully copied 23kB to C:\Users\Admin\Desktop\TF-LabRedes-turma30\TF-LabRedes\captures\sr_w4_R2.pcap
+Captura salva em captures/sr_w4_R2.pcap
+
+====================================
+sr | WINDOW=4 | R1
+NETEM: delay 1ms reorder 10% 50%
+====================================
+QDISC:
+qdisc netem 8042: root refcnt 9 limit 1000 delay 1ms reorder 10% 50% seed 17549630830534222103 gap 1
+Window size = 4
+Modo = sr
+Usando arquivo "src/files/50.255+0.txt"
+<Sender> Iniciando etapa de HANDSHAKE
+<Sender> Lendo arquivo e enviando
+<Sender> Iniciando etapa de DISCONNECT
+TOTAL RETRANSMISSIONS=0
+ARQUIVO=12750
+TEMPO=0.019 s
+THROUGHPUT=671052.6315789474
+[OK] Arquivo íntegro
+Successfully copied 21.5kB to C:\Users\Admin\Desktop\TF-LabRedes-turma30\TF-LabRedes\captures\sr_w4_R1.pcap
+Captura salva em captures/sr_w4_R1.pcap
+
+====================================
+sr | WINDOW=16 | R0
+NETEM: 
+====================================
+QDISC:
+qdisc noqueue 0: root refcnt 2 
+Window size = 16
+Modo = sr
+Usando arquivo "src/files/50.255+0.txt"
+<Sender> Iniciando etapa de HANDSHAKE
+<Sender> Lendo arquivo e enviando
+<Sender> Iniciando etapa de DISCONNECT
+TOTAL RETRANSMISSIONS=0
+ARQUIVO=12750
+TEMPO=0.012 s
+THROUGHPUT=1062500.0
+[OK] Arquivo íntegro
+Successfully copied 21.5kB to C:\Users\Admin\Desktop\TF-LabRedes-turma30\TF-LabRedes\captures\sr_w16_R0.pcap
+Captura salva em captures/sr_w16_R0.pcap
+
+====================================
+sr | WINDOW=16 | R2
+NETEM: delay 1ms reorder 25% 50%
+====================================
+QDISC:
+qdisc netem 8043: root refcnt 9 limit 1000 delay 1ms reorder 25% 50% seed 10790998643487274440 gap 1
+Window size = 16
+Modo = sr
+Usando arquivo "src/files/50.255+0.txt"
+<Sender> Iniciando etapa de HANDSHAKE
+<Sender> Lendo arquivo e enviando
+<Sender> Iniciando etapa de DISCONNECT
+TOTAL RETRANSMISSIONS=1
+ARQUIVO=12750
+TEMPO=0.01 s
+THROUGHPUT=1275000.0
+[OK] Arquivo íntegro
+Successfully copied 22kB to C:\Users\Admin\Desktop\TF-LabRedes-turma30\TF-LabRedes\captures\sr_w16_R2.pcap
+Captura salva em captures/sr_w16_R2.pcap
+
+====================================
+sr | WINDOW=16 | R1
+NETEM: delay 1ms reorder 10% 50%
+====================================
+QDISC:
+qdisc netem 8044: root refcnt 9 limit 1000 delay 1ms reorder 10% 50% seed 8055583911258438938 gap 1
+Window size = 16
+Modo = sr
+Usando arquivo "src/files/50.255+0.txt"
+<Sender> Iniciando etapa de HANDSHAKE
+<Sender> Lendo arquivo e enviando
+<Sender> Iniciando etapa de DISCONNECT
+TOTAL RETRANSMISSIONS=0
+ARQUIVO=12750
+TEMPO=0.012 s
+THROUGHPUT=1062500.0
+[OK] Arquivo íntegro
+Successfully copied 21.5kB to C:\Users\Admin\Desktop\TF-LabRedes-turma30\TF-LabRedes\captures\sr_w16_R1.pcap
+Captura salva em captures/sr_w16_R1.pcap
+
+====================================
+TESTES DE REORDENAÇÃO FINALIZADOS
+====================================

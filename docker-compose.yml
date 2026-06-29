@@ -1,0 +1,32 @@
+services:
+
+  host1:
+    build:
+      context: .
+      dockerfile: host1/Dockerfile
+
+    container_name: host1
+
+    tty: true
+    stdin_open: true
+    command: tail -f /dev/null
+    cap_add:
+      - NET_ADMIN
+      - NET_RAW
+
+  host2:
+    build:
+      context: .
+      dockerfile: host2/Dockerfile
+
+    container_name: host2
+
+    tty: true
+    stdin_open: true
+    command: tail -f /dev/null
+    cap_add:
+      - NET_ADMIN
+      - NET_RAW
+
+    depends_on:
+      - host1
